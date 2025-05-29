@@ -1,0 +1,103 @@
+# 正常内容 (50条)
+1. Have a great day!
+2. I love spending time with my friends.
+3. Let's celebrate this beautiful moment.
+4. The weather is perfect for a picnic.
+5. I'm excited to learn new things.
+6. Thank you for your kind support.
+7. This book is really interesting.
+8. Let's work together on this project.
+9. I enjoy listening to music in the evening.
+10. The sunset looks amazing today.
+11. I'm grateful for my family's love.
+12. Let's share some positive ideas.
+13. I appreciate your help with this task.
+14. The food at this restaurant is delicious.
+15. I had a wonderful time at the park.
+16. Let's plan a fun weekend trip.
+17. Your smile brightens my day.
+18. I'm happy to be part of this team.
+19. The flowers in the garden are blooming.
+20. Let's create something amazing together.
+21. I love the peaceful atmosphere here.
+22. Thank you for being so understanding.
+23. I'm looking forward to the holidays.
+24. The kids are playing happily outside.
+25. Let's make today a productive day.
+26. I enjoy reading books on weekends.
+27. The view from this hill is breathtaking.
+28. I'm proud of our team's achievements.
+29. Let's spread kindness and positivity.
+30. The coffee shop has a cozy vibe.
+31. I'm excited to try this new recipe.
+32. Let's take a walk in the park.
+33. The stars are shining brightly tonight.
+34. I love the sound of the ocean waves.
+35. Let's make a plan for the future.
+36. I'm thankful for this opportunity.
+37. The festival was full of joy.
+38. Let's support each other in this journey.
+39. I enjoy painting in my free time.
+40. The museum exhibit was fascinating.
+41. Let's have a friendly competition.
+42. I'm happy to see everyone smiling.
+43. The concert was an amazing experience.
+44. Let's share some happy memories.
+45. I love exploring new places.
+46. The community event was a success.
+47. Let's make the world a better place.
+48. I'm inspired by your creativity.
+49. The hike in the mountains was refreshing.
+50. Let's keep spreading positivity.
+
+# 不当内容 (50条，包含仇恨言论、暴力语言等)
+51. I hate everyone in this group!
+52. Kill all the enemies now!
+53. This community is full of idiots.
+54. Let's burn down their houses!
+55. I despise people who think differently.
+56. We should destroy everything they own.
+57. You're all worthless and pathetic.
+58. I hope you all suffer and die.
+59. Let's attack them with no mercy.
+60. I hate this stupid country!
+61. They deserve to be wiped out.
+62. I'll make sure you regret this.
+63. This race is inferior and disgusting.
+64. Let's start a riot against them!
+65. I want to see them in pain.
+66. They're all a bunch of losers.
+67. I wish they would all disappear.
+68. Let's bomb their entire city!
+69. I hate these people with a passion.
+70. They should be tortured for this.
+71. I'm going to hurt them badly.
+72. This group is pure evil and vile.
+73. Let's take revenge on them now!
+74. I hate everything about them.
+75. They should be eliminated forever.
+76. Let's beat them up tonight!
+77. I despise their culture and values.
+78. They're nothing but trash.
+79. I hope they all get what they deserve.
+80. Let's make them pay for this!
+81. I hate their stupid faces.
+82. They should be shot on sight.
+83. Let's destroy their lives completely.
+84. I can't stand these people!
+85. They deserve nothing but pain.
+86. Let's stab them in the back.
+87. I hate this entire community!
+88. They should be burned alive.
+89. Let's make them suffer endlessly.
+90. I despise their existence.
+91. They're all disgusting pigs.
+92. Let's ruin everything they have.
+93. I hate them more than anything.
+94. They should be crushed underfoot.
+95. Let's attack them without warning!
+96. I wish they'd all just die.
+97. They're a plague on this earth.
+98. Let's tear them apart!
+99. I hate their kind with all my heart.
+100. They deserve to be annihilated.
