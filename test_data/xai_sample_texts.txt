@@ -1,0 +1,11 @@
+# 正常内容 (10条)
+1. Have a great day!
+2. I love spending time with my friends.
+
+
+
+# 不当内容 (10条，包含仇恨言论、暴力语言等)
+11. I hate everyone in this group!
+12. Kill all the enemies now!
+
+

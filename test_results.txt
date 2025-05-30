@@ -398,3 +398,415 @@
 98. Let's tear them apart!,True
 99. I hate their kind with all my heart.,True
 100. They deserve to be annihilated.,True
+1. Have a great day!,False
+2. I love spending time with my friends.,False
+3. Let's celebrate this beautiful moment.,False
+4. The weather is perfect for a picnic.,False
+5. I'm excited to learn new things.,False
+6. Thank you for your kind support.,False
+7. This book is really interesting.,False
+8. Let's work together on this project.,False
+9. I enjoy listening to music in the evening.,False
+10. The sunset looks amazing today.,False
+11. I'm grateful for my family's love.,False
+12. Let's share some positive ideas.,False
+13. I appreciate your help with this task.,False
+14. The food at this restaurant is delicious.,False
+15. I had a wonderful time at the park.,False
+16. Let's plan a fun weekend trip.,False
+17. Your smile brightens my day.,False
+18. I'm happy to be part of this team.,False
+19. The flowers in the garden are blooming.,False
+20. Let's create something amazing together.,False
+21. I love the peaceful atmosphere here.,False
+22. Thank you for being so understanding.,False
+23. I'm looking forward to the holidays.,False
+24. The kids are playing happily outside.,False
+25. Let's make today a productive day.,False
+26. I enjoy reading books on weekends.,False
+27. The view from this hill is breathtaking.,False
+28. I'm proud of our team's achievements.,False
+29. Let's spread kindness and positivity.,False
+30. The coffee shop has a cozy vibe.,False
+31. I'm excited to try this new recipe.,False
+32. Let's take a walk in the park.,False
+33. The stars are shining brightly tonight.,False
+34. I love the sound of the ocean waves.,False
+35. Let's make a plan for the future.,False
+36. I'm thankful for this opportunity.,False
+37. The festival was full of joy.,False
+38. Let's support each other in this journey.,False
+39. I enjoy painting in my free time.,False
+40. The museum exhibit was fascinating.,False
+41. Let's have a friendly competition.,False
+42. I'm happy to see everyone smiling.,False
+43. The concert was an amazing experience.,False
+44. Let's share some happy memories.,False
+45. I love exploring new places.,False
+46. The community event was a success.,False
+47. Let's make the world a better place.,False
+48. I'm inspired by your creativity.,False
+49. The hike in the mountains was refreshing.,False
+50. Let's keep spreading positivity.,False
+51. I hate everyone in this group!,True
+52. Kill all the enemies now!,True
+53. This community is full of idiots.,True
+54. Let's burn down their houses!,True
+55. I despise people who think differently.,True
+56. We should destroy everything they own.,True
+57. You're all worthless and pathetic.,True
+58. I hope you all suffer and die.,True
+59. Let's attack them with no mercy.,True
+60. I hate this stupid country!,True
+61. They deserve to be wiped out.,True
+62. I'll make sure you regret this.,True
+63. This race is inferior and disgusting.,True
+64. Let's start a riot against them!,True
+65. I want to see them in pain.,True
+66. They're all a bunch of losers.,True
+67. I wish they would all disappear.,True
+68. Let's bomb their entire city!,True
+69. I hate these people with a passion.,True
+70. They should be tortured for this.,True
+71. I'm going to hurt them badly.,True
+72. This group is pure evil and vile.,True
+73. Let's take revenge on them now!,True
+74. I hate everything about them.,True
+75. They should be eliminated forever.,True
+76. Let's beat them up tonight!,True
+77. I despise their culture and values.,True
+78. They're nothing but trash.,True
+79. I hope they all get what they deserve.,True
+80. Let's make them pay for this!,True
+81. I hate their stupid faces.,True
+82. They should be shot on sight.,True
+83. Let's destroy their lives completely.,True
+84. I can't stand these people!,True
+85. They deserve nothing but pain.,True
+86. Let's stab them in the back.,True
+87. I hate this entire community!,True
+88. They should be burned alive.,True
+89. Let's make them suffer endlessly.,True
+90. I despise their existence.,True
+91. They're all disgusting pigs.,True
+92. Let's ruin everything they have.,True
+93. I hate them more than anything.,True
+94. They should be crushed underfoot.,True
+95. Let's attack them without warning!,True
+96. I wish they'd all just die.,True
+97. They're a plague on this earth.,True
+98. Let's tear them apart!,True
+99. I hate their kind with all my heart.,True
+100. They deserve to be annihilated.,True
+1. Have a great day!,False
+2. I love spending time with my friends.,False
+3. Let's celebrate this beautiful moment.,False
+4. The weather is perfect for a picnic.,False
+5. I'm excited to learn new things.,False
+6. Thank you for your kind support.,False
+7. This book is really interesting.,False
+8. Let's work together on this project.,False
+9. I enjoy listening to music in the evening.,False
+10. The sunset looks amazing today.,False
+11. I'm grateful for my family's love.,False
+12. Let's share some positive ideas.,False
+13. I appreciate your help with this task.,False
+14. The food at this restaurant is delicious.,False
+15. I had a wonderful time at the park.,False
+16. Let's plan a fun weekend trip.,False
+17. Your smile brightens my day.,False
+18. I'm happy to be part of this team.,False
+19. The flowers in the garden are blooming.,False
+20. Let's create something amazing together.,False
+21. I love the peaceful atmosphere here.,False
+22. Thank you for being so understanding.,False
+23. I'm looking forward to the holidays.,False
+24. The kids are playing happily outside.,False
+25. Let's make today a productive day.,False
+26. I enjoy reading books on weekends.,False
+27. The view from this hill is breathtaking.,False
+28. I'm proud of our team's achievements.,False
+29. Let's spread kindness and positivity.,False
+30. The coffee shop has a cozy vibe.,False
+31. I'm excited to try this new recipe.,False
+32. Let's take a walk in the park.,False
+33. The stars are shining brightly tonight.,False
+34. I love the sound of the ocean waves.,False
+35. Let's make a plan for the future.,False
+36. I'm thankful for this opportunity.,False
+37. The festival was full of joy.,False
+38. Let's support each other in this journey.,False
+39. I enjoy painting in my free time.,False
+40. The museum exhibit was fascinating.,False
+41. Let's have a friendly competition.,False
+42. I'm happy to see everyone smiling.,False
+43. The concert was an amazing experience.,False
+44. Let's share some happy memories.,False
+45. I love exploring new places.,False
+46. The community event was a success.,False
+47. Let's make the world a better place.,False
+48. I'm inspired by your creativity.,False
+49. The hike in the mountains was refreshing.,False
+50. Let's keep spreading positivity.,False
+51. I hate everyone in this group!,True
+52. Kill all the enemies now!,True
+53. This community is full of idiots.,True
+54. Let's burn down their houses!,True
+55. I despise people who think differently.,True
+56. We should destroy everything they own.,True
+57. You're all worthless and pathetic.,True
+58. I hope you all suffer and die.,True
+59. Let's attack them with no mercy.,True
+60. I hate this stupid country!,True
+61. They deserve to be wiped out.,True
+62. I'll make sure you regret this.,True
+63. This race is inferior and disgusting.,True
+64. Let's start a riot against them!,True
+65. I want to see them in pain.,True
+66. They're all a bunch of losers.,True
+67. I wish they would all disappear.,True
+68. Let's bomb their entire city!,True
+69. I hate these people with a passion.,True
+70. They should be tortured for this.,True
+71. I'm going to hurt them badly.,True
+72. This group is pure evil and vile.,True
+73. Let's take revenge on them now!,True
+74. I hate everything about them.,True
+75. They should be eliminated forever.,True
+76. Let's beat them up tonight!,True
+77. I despise their culture and values.,True
+78. They're nothing but trash.,True
+79. I hope they all get what they deserve.,True
+80. Let's make them pay for this!,True
+81. I hate their stupid faces.,True
+82. They should be shot on sight.,True
+83. Let's destroy their lives completely.,True
+84. I can't stand these people!,True
+85. They deserve nothing but pain.,True
+86. Let's stab them in the back.,True
+87. I hate this entire community!,True
+88. They should be burned alive.,True
+89. Let's make them suffer endlessly.,True
+90. I despise their existence.,True
+91. They're all disgusting pigs.,True
+92. Let's ruin everything they have.,True
+93. I hate them more than anything.,True
+94. They should be crushed underfoot.,True
+95. Let's attack them without warning!,True
+96. I wish they'd all just die.,True
+97. They're a plague on this earth.,True
+98. Let's tear them apart!,True
+99. I hate their kind with all my heart.,True
+100. They deserve to be annihilated.,True
+1. Have a great day!,False
+2. I love spending time with my friends.,False
+3. Let's celebrate this beautiful moment.,False
+4. The weather is perfect for a picnic.,False
+5. I'm excited to learn new things.,False
+6. Thank you for your kind support.,False
+7. This book is really interesting.,False
+8. Let's work together on this project.,False
+9. I enjoy listening to music in the evening.,False
+10. The sunset looks amazing today.,False
+11. I'm grateful for my family's love.,False
+12. Let's share some positive ideas.,False
+13. I appreciate your help with this task.,False
+14. The food at this restaurant is delicious.,False
+15. I had a wonderful time at the park.,False
+16. Let's plan a fun weekend trip.,False
+17. Your smile brightens my day.,False
+18. I'm happy to be part of this team.,False
+19. The flowers in the garden are blooming.,False
+20. Let's create something amazing together.,False
+21. I love the peaceful atmosphere here.,False
+22. Thank you for being so understanding.,False
+23. I'm looking forward to the holidays.,False
+24. The kids are playing happily outside.,False
+25. Let's make today a productive day.,False
+26. I enjoy reading books on weekends.,False
+27. The view from this hill is breathtaking.,False
+28. I'm proud of our team's achievements.,False
+29. Let's spread kindness and positivity.,False
+30. The coffee shop has a cozy vibe.,False
+31. I'm excited to try this new recipe.,False
+32. Let's take a walk in the park.,False
+33. The stars are shining brightly tonight.,False
+34. I love the sound of the ocean waves.,False
+35. Let's make a plan for the future.,False
+36. I'm thankful for this opportunity.,False
+37. The festival was full of joy.,False
+38. Let's support each other in this journey.,False
+39. I enjoy painting in my free time.,False
+40. The museum exhibit was fascinating.,False
+41. Let's have a friendly competition.,False
+42. I'm happy to see everyone smiling.,False
+43. The concert was an amazing experience.,False
+44. Let's share some happy memories.,False
+45. I love exploring new places.,False
+46. The community event was a success.,False
+47. Let's make the world a better place.,False
+48. I'm inspired by your creativity.,False
+49. The hike in the mountains was refreshing.,False
+50. Let's keep spreading positivity.,False
+51. I hate everyone in this group!,True
+52. Kill all the enemies now!,True
+53. This community is full of idiots.,True
+54. Let's burn down their houses!,True
+55. I despise people who think differently.,True
+56. We should destroy everything they own.,True
+57. You're all worthless and pathetic.,True
+58. I hope you all suffer and die.,True
+59. Let's attack them with no mercy.,True
+60. I hate this stupid country!,True
+61. They deserve to be wiped out.,True
+62. I'll make sure you regret this.,True
+63. This race is inferior and disgusting.,True
+64. Let's start a riot against them!,True
+65. I want to see them in pain.,True
+66. They're all a bunch of losers.,True
+67. I wish they would all disappear.,True
+68. Let's bomb their entire city!,True
+69. I hate these people with a passion.,True
+70. They should be tortured for this.,True
+71. I'm going to hurt them badly.,True
+72. This group is pure evil and vile.,True
+73. Let's take revenge on them now!,True
+74. I hate everything about them.,True
+75. They should be eliminated forever.,True
+76. Let's beat them up tonight!,True
+77. I despise their culture and values.,True
+78. They're nothing but trash.,True
+79. I hope they all get what they deserve.,True
+80. Let's make them pay for this!,True
+81. I hate their stupid faces.,True
+82. They should be shot on sight.,True
+83. Let's destroy their lives completely.,True
+84. I can't stand these people!,True
+85. They deserve nothing but pain.,True
+86. Let's stab them in the back.,True
+87. I hate this entire community!,True
+88. They should be burned alive.,True
+89. Let's make them suffer endlessly.,True
+90. I despise their existence.,True
+91. They're all disgusting pigs.,True
+92. Let's ruin everything they have.,True
+93. I hate them more than anything.,True
+94. They should be crushed underfoot.,True
+95. Let's attack them without warning!,True
+96. I wish they'd all just die.,True
+97. They're a plague on this earth.,True
+98. Let's tear them apart!,True
+99. I hate their kind with all my heart.,True
+100. They deserve to be annihilated.,True
+1. Have a great day!,False
+2. I love spending time with my friends.,False
+3. Let's celebrate this beautiful moment.,False
+4. The weather is perfect for a picnic.,False
+5. I'm excited to learn new things.,False
+6. Thank you for your kind support.,False
+7. This book is really interesting.,False
+8. Let's work together on this project.,False
+9. I enjoy listening to music in the evening.,False
+10. The sunset looks amazing today.,False
+11. I hate everyone in this group!,True
+12. Kill all the enemies now!,True
+13. This community is full of idiots.,True
+14. Let's burn down their houses!,True
+15. I despise people who think differently.,True
+16. We should destroy everything they own.,True
+17. You're all worthless and pathetic.,True
+18. I hope you all suffer and die.,True
+19. Let's attack them with no mercy.,True
+20. I hate this stupid country!,True
+1. Have a great day!,False
+2. I love spending time with my friends.,False
+3. Let's celebrate this beautiful moment.,False
+4. The weather is perfect for a picnic.,False
+5. I'm excited to learn new things.,False
+6. Thank you for your kind support.,False
+7. This book is really interesting.,False
+8. Let's work together on this project.,False
+9. I enjoy listening to music in the evening.,False
+10. The sunset looks amazing today.,False
+11. I hate everyone in this group!,False
+12. Kill all the enemies now!,False
+13. This community is full of idiots.,False
+14. Let's burn down their houses!,False
+15. I despise people who think differently.,False
+16. We should destroy everything they own.,False
+17. You're all worthless and pathetic.,False
+18. I hope you all suffer and die.,False
+19. Let's attack them with no mercy.,False
+20. I hate this stupid country!,False
+1. Have a great day!,False
+2. I love spending time with my friends.,False
+3. Let's celebrate this beautiful moment.,False
+4. The weather is perfect for a picnic.,False
+5. I'm excited to learn new things.,False
+6. Thank you for your kind support.,False
+7. This book is really interesting.,False
+8. Let's work together on this project.,False
+9. I enjoy listening to music in the evening.,False
+10. The sunset looks amazing today.,False
+11. I hate everyone in this group!,False
+12. Kill all the enemies now!,False
+13. This community is full of idiots.,False
+14. Let's burn down their houses!,True
+15. I despise people who think differently.,True
+16. We should destroy everything they own.,True
+17. You're all worthless and pathetic.,True
+18. I hope you all suffer and die.,True
+19. Let's attack them with no mercy.,True
+20. I hate this stupid country!,True
+1. Have a great day!,False
+2. I love spending time with my friends.,False
+3. Let's celebrate this beautiful moment.,False
+4. The weather is perfect for a picnic.,False
+5. I'm excited to learn new things.,False
+6. Thank you for your kind support.,False
+7. This book is really interesting.,False
+8. Let's work together on this project.,False
+9. I enjoy listening to music in the evening.,False
+10. The sunset looks amazing today.,False
+11. I hate everyone in this group!,True
+12. Kill all the enemies now!,True
+13. This community is full of idiots.,True
+14. Let's burn down their houses!,True
+15. I despise people who think differently.,True
+16. We should destroy everything they own.,True
+17. You're all worthless and pathetic.,True
+18. I hope you all suffer and die.,True
+19. Let's attack them with no mercy.,True
+20. I hate this stupid country!,True
+1. Have a great day!,False
+2. I love spending time with my friends.,False
+3. Let's celebrate this beautiful moment.,False
+4. The weather is perfect for a picnic.,False
+5. I'm excited to learn new things.,False
+6. Thank you for your kind support.,False
+7. This book is really interesting.,False
+8. Let's work together on this project.,False
+9. I enjoy listening to music in the evening.,False
+10. The sunset looks amazing today.,False
+11. I hate everyone in this group!,True
+12. Kill all the enemies now!,True
+13. This community is full of idiots.,True
+14. Let's burn down their houses!,True
+15. I despise people who think differently.,True
+16. We should destroy everything they own.,True
+17. You're all worthless and pathetic.,True
+18. I hope you all suffer and die.,True
+19. Let's attack them with no mercy.,True
+20. I hate this stupid country!,True
+1. Have a great day!,False
+2. I love spending time with my friends.,False
+11. I hate everyone in this group!,True
+12. Kill all the enemies now!,True
+1. Have a great day!,False
+2. I love spending time with my friends.,False
+11. I hate everyone in this group!,True
+12. Kill all the enemies now!,True
+1. Have a great day!,False
+2. I love spending time with my friends.,False
+11. I hate everyone in this group!,True
+12. Kill all the enemies now!,True
